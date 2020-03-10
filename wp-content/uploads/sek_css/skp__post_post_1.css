@@ -1,0 +1,12 @@
+/* Add your own CSS code here */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Unify Sans",Arial,sans-serif;
+    font-weight: 600 !important;
+    font-style: normal;
+    color: #111;
+    text-rendering: optimizeLegibility;
+    margin-top: .2rem;
+    margin-bottom: .75rem;
+    line-height: 1.2;
+    text-shadow: 1px 1px 0 #fff;
+}
